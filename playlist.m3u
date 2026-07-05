@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="Generic",[BD]8TV *tv
-https://stream1.freetv.fun/a8689b73ff805df64e23f886f310bb655802abe03d5a4c78e3cf8bd638a7b4dc.ctv
+#EXTINF:-1 tvg-name="8TV" tvg-id="TV8.my" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://epg.pw" group-title="Malaysia",[BD]8TV *tv
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8
