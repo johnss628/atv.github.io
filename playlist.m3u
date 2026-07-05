@@ -1,3 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="8TV" tvg-id="TV8.my" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://epg.pw" group-title="Malaysia",[BD]8TV *tv
-https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=9423&deviceMac=00:1A:79:68:B0:74
